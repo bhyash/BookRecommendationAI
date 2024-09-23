@@ -1,0 +1,212 @@
+# User Profiles
+UserID: 1
+Age: 25
+Gender: Male
+Location: New York
+Genres of Interest: Fiction, Mystery, Fantasy
+
+UserID: 2
+Age: 30
+Gender: Female
+Location: San Francisco
+Genres of Interest: Non-Fiction, Biography
+
+UserID: 3
+Age: 22
+Gender: Female
+Location: Los Angeles
+Genres of Interest: Romance, Science Fiction
+
+UserID: 4
+Age: 35
+Gender: Male
+Location: Chicago
+Genres of Interest: Thriller, Historical Fiction
+
+UserID: 5
+Age: 28
+Gender: Male
+Location: Seattle
+Genres of Interest: Fantasy, Adventure
+
+UserID: 6
+Age: 40
+Gender: Female
+Location: Austin
+Genres of Interest: Non-Fiction, Health
+
+UserID: 7
+Age: 27
+Gender: Male
+Location: Miami
+Genres of Interest: Mystery, Horror
+
+UserID: 8
+Age: 32
+Gender: Female
+Location: Boston
+Genres of Interest: Young Adult, Dystopian
+
+UserID: 9
+Age: 29
+Gender: Male
+Location: San Diego
+Genres of Interest: Science Fiction, Fantasy
+
+UserID: 10
+Age: 26
+Gender: Female
+Location: Denver
+Genres of Interest: Biography, Memoir
+
+# Books
+BookID: 101
+Title: The Great Gatsby
+Author: F. Scott Fitzgerald
+Genre: Fiction
+Publication Year: 1925
+Rating: 4.5
+Description: A story about the American Dream.
+Tags: classic, romance
+
+BookID: 102
+Title: Sapiens: A Brief History
+Author: Yuval Noah Harari
+Genre: Non-Fiction
+Publication Year: 2011
+Rating: 4.8
+Description: An exploration of human history.
+Tags: history, anthropology
+
+BookID: 103
+Title: To Kill a Mockingbird
+Author: Harper Lee
+Genre: Fiction
+Publication Year: 1960
+Rating: 4.7
+Description: A novel about racial injustice in the Deep South.
+Tags: classic, social issues
+
+BookID: 104
+Title: 1984
+Author: George Orwell
+Genre: Dystopian
+Publication Year: 1949
+Rating: 4.6
+Description: A tale of a totalitarian regime and surveillance.
+Tags: dystopian, political fiction
+
+BookID: 105
+Title: The Catcher in the Rye
+Author: J.D. Salinger
+Genre: Fiction
+Publication Year: 1951
+Rating: 4.0
+Description: A story about teenage angst and alienation.
+Tags: classic, coming-of-age
+
+BookID: 106
+Title: The Da Vinci Code
+Author: Dan Brown
+Genre: Thriller
+Publication Year: 2003
+Rating: 4.4
+Description: A mystery thriller involving art, history, and religion.
+Tags: thriller, mystery
+
+BookID: 107
+Title: The Hobbit
+Author: J.R.R. Tolkien
+Genre: Fantasy
+Publication Year: 1937
+Rating: 4.8
+Description: A fantasy adventure set in Middle-earth.
+Tags: fantasy, adventure
+
+BookID: 108
+Title: Educated
+Author: Tara Westover
+Genre: Biography
+Publication Year: 2018
+Rating: 4.7
+Description: A memoir about growing up in a strict household.
+Tags: memoir, education
+
+BookID: 109
+Title: The Silent Patient
+Author: Alex Michaelides
+Genre: Thriller
+Publication Year: 2019
+Rating: 4.5
+Description: A psychological thriller about a woman's silence.
+Tags: psychological thriller, mystery
+
+BookID: 110
+Title: The Alchemist
+Author: Paulo Coelho
+Genre: Fiction
+Publication Year: 1988
+Rating: 4.6
+Description: A novel about pursuing one's dreams.
+Tags: inspirational, adventure
+
+# User-Book Interactions
+UserID: 1
+BookID: 101
+Rating: 5
+Review: A masterpiece that captures the era.
+Read Status: Read
+
+UserID: 2
+BookID: 102
+Rating: 4
+Review: Engaging and thought-provoking.
+Read Status: Currently Reading
+
+UserID: 3
+BookID: 103
+Rating: 5
+Review: A powerful and moving story.
+Read Status: Read
+
+UserID: 4
+BookID: 104
+Rating: 4
+Review: A chilling depiction of a dystopian future.
+Read Status: Read
+
+UserID: 5
+BookID: 105
+Rating: 3
+Review: Not my favorite, but a classic.
+Read Status: Read
+
+UserID: 6
+BookID: 106
+Rating: 4
+Review: Fast-paced and thrilling.
+Read Status: Read
+
+UserID: 7
+BookID: 107
+Rating: 5
+Review: A fantastic journey in a magical world.
+Read Status: Read
+
+UserID: 8
+BookID: 108
+Rating: 5
+Review: Inspiring and beautifully written.
+Read Status: Read
+
+UserID: 9
+BookID: 109
+Rating: 4
+Review: Gripping and full of twists.
+Read Status: Currently Reading
+
+UserID: 10
+BookID: 110
+Rating: 5
+Review: A timeless tale about following dreams.
+Read Status: Read
